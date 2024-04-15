@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Have any questions or want to contribute further? Reach out to us directly at [email@example.com](mailto:wajoudnoorani59@gmail.com).
+Have any questions or want to contribute further? Reach out to us directly at [Wajoud H Noorani](mailto:wajoudnoorani59@gmail.com).
