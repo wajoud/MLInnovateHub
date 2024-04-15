@@ -16,7 +16,7 @@ Our mission is to empower developers, data scientists, and researchers by provid
 To get involved with MLInnovateHub, clone the repository and set up your local environment:
 
 ```bash
-git clone https://github.com/yourusername/MLInnovateHub.git
+git clone https://github.com/wajoud/MLInnovateHub.git
 cd MLInnovateHub
 pip install -r requirements.txt
 ```
